@@ -19,6 +19,6 @@
 1. 克隆仓库
 ```bash
 git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Backend
-2. 依赖后端仓库
+2. 依赖前端仓库
 git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Frontend
 
