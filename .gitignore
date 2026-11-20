@@ -8,6 +8,8 @@ WIndexTTS-Windows/
 .venv/
 __pycache__/
 *.pyc
+
+# 忽略所有大文件
 *.wav
 *.jpg
 *.png
@@ -16,3 +18,8 @@ __pycache__/
 *.pdf
 *.blend
 *.blend1
+
+# ！！！极其重要：强行保留文件夹结构！！！
+!data/
+!data/documents/
+!.gitkeep
