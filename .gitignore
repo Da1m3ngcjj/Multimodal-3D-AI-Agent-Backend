@@ -1,0 +1,18 @@
+# 忽略大模型和数据集（重点）
+index-tts/
+bge-small-zh-v1.5/
+chroma_db/
+WIndexTTS-Windows/
+
+# 忽略环境缓存
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.jpg
+*.png
+*.dll
+*.exe
+*.pdf
+*.blend
+*.blend1
