@@ -15,3 +15,10 @@
 ## ⚙️ 运行说明
 请参考 `.gitignore` 及代码中的依赖，自行下载大模型权重并配置本地环境。
 
+## 🚀 本地部署步骤
+1. 克隆仓库
+```bash
+git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Backend
+2. 依赖后端仓库
+git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Frontend
+
